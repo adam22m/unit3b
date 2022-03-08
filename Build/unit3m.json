@@ -1,0 +1,16 @@
+{
+"companyName": "Adam marin",
+"productName": "Adam Marin",
+"productVersion": "0.1",
+"dataUrl": "unit3m.data.unityweb",
+"wasmCodeUrl": "unit3m.wasm.code.unityweb",
+"wasmFrameworkUrl": "unit3m.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.29f1"
+}
